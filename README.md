@@ -6,10 +6,10 @@ Hi, I'm Raphael Okolo!
 </h1>
 <p align="center">
 	<a href="https://github.com/RaphDasilva">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="RaphDasilva" />
+		<img src="https://komarev.com/ghpvc/?username=RaphDasilva&label=Profile%20views&color=0e75b6&style=flat" alt="RaphDasilva" />
 	</a>
 	<a href="https://github.com/RaphDasilva">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="RaphDasilva" />
+		<img src="https://img.shields.io/github/followers/RaphDasilva?label=Followers" alt="RaphDasilva" />
 	</a>
 </p>
 <br/>
