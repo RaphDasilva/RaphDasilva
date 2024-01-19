@@ -20,11 +20,11 @@ Hi, I'm Raphael Okolo!
 <hr>
 
 <pre>
-💻 I am a Full Stack Web Developer
+💻 I am a front-end developer
 📚 I am from Nigeria.
-🔭 Working on React, rubby and Redux
-🌟 Main languages: JavaScript, React, Redux, Ruby on Rails, HTML/CSS,
-🚩 Interested in Front-end development" || "Full-stack web development
+🔭 Working on React, and Redux
+🌟 Main languages: JavaScript, React, Redux, HTML/CSS,
+🚩 Interested in Front-end development" 
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="#" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
